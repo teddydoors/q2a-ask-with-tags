@@ -1,0 +1,11 @@
+{
+	"name": "Ask With Tags",
+	"description": "Ask With Tags",
+	"version": "1",
+	"date": "2020-3-20",
+	"author": "jair",
+	"author_uri": "https://www.question2answer.org/qa/user/jair",
+	"license": "GPLv2",
+	"min_q2a": "1.5",
+	"load_order": "after_db_init"
+}
